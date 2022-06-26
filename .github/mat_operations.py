@@ -50,22 +50,6 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import tensorflow as tf\n",
-    "x = tf.constant(2)\n",
-    "y = tf.Variable(x+4)\n",
-    "#type(x)\n",
-    "#print(x)\n",
-    "total=x+y\n",
-    "#type(total)\n",
-    "print(total)"
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": 3,
    "metadata": {},
    "outputs": [
